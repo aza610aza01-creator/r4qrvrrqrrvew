@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AnalysisForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MaterialManagementForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PurchaseOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RawMaterialRequestForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SourceCoverageForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
